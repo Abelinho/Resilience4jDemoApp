@@ -1,10 +1,10 @@
-package com.abel.democircuitbreaker;
+package com.abel.demouserdetailsfacade;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemocircuitbreakerApplicationTests {
+class DemouserdetailsfacadeApplicationTests {
 
 	@Test
 	void contextLoads() {

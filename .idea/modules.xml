@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/circuitbreakerdemoapp.iml" filepath="$PROJECT_DIR$/.idea/circuitbreakerdemoapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/democircuitbreaker/democircuitbreaker.iml" filepath="$PROJECT_DIR$/democircuitbreaker/democircuitbreaker.iml" />
       <module fileurl="file://$PROJECT_DIR$/demoretrypattern/demoretrypattern.iml" filepath="$PROJECT_DIR$/demoretrypattern/demoretrypattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demouserdetailsfacade/demouserdetailsfacade.iml" filepath="$PROJECT_DIR$/demouserdetailsfacade/demouserdetailsfacade.iml" />
     </modules>
   </component>
 </project>
