@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a881fca8-a3fe-4218-ae08-76fb6041aeca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/DemouserdetailsfacadeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/DemouserdetailsfacadeApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/config/CustomRetryHealthIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/config/CustomRetryHealthIndicator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +162,7 @@
       <workItem from="1682145059331" duration="1330000" />
       <workItem from="1682146526967" duration="1823000" />
       <workItem from="1682149804699" duration="1262000" />
-      <workItem from="1682159255113" duration="23019000" />
+      <workItem from="1682159255113" duration="23367000" />
     </task>
     <servers />
   </component>
