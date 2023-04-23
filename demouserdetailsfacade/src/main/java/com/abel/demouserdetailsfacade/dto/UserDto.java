@@ -1,10 +1,12 @@
-package main.java.com.abel.demouserdetailsfacade.dto;
+package com.abel.demouserdetailsfacade.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 
-@AllArgsConstructor
 @Getter
+@NoArgsConstructor
+@AllArgsConstructor
 public class UserDto {
     private String firstName;
     private String lastName;

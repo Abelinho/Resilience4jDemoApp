@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/demoretrypattern/pom.xml" />
         <option value="$PROJECT_DIR$/democircuitbreaker/pom.xml" />
+        <option value="$PROJECT_DIR$/demouserdetailsfacade/pom.xml" />
       </list>
     </option>
   </component>

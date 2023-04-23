@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/democircuitbreaker" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoretrypattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demouserdetailsfacade" charset="UTF-8" />
   </component>
 </project>

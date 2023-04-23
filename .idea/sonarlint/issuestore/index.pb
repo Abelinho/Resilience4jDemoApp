@@ -27,3 +27,5 @@ Udemoretrypattern/src/main/java/com/abel/demoretrypattern/service/UserserviceImp
 cdemocircuitbreaker/src/main/java/com/abel/democircuitbreaker/Service/UserStatisticsServiceImpl.java,b\7\b7bfb247f84ea4b7a2919eefafc91de35bb84104
 è
 _democircuitbreaker/src/main/java/com/abel/democircuitbreaker/controller/UserStatController.java,5\b\5b9bd6ca882c2fd296d362e1605140379b17edcb
+~
+Ndemoretrypattern/src/main/java/com/abel/demoretrypattern/Demoretrypattern.java,f\5\f58028dae45aa59cea666478a22f9f2d5967cd0c
