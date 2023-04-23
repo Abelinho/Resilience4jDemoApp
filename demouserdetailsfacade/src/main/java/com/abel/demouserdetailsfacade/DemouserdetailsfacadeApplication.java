@@ -10,16 +10,16 @@ import org.springframework.web.reactive.function.client.WebClient;
 public class DemouserdetailsfacadeApplication {
 
 	//configure webclient bean for rest call
-//	@Bean
-//	public WebClient webClient(){
-//		return WebClient.builder().build();
-//	}
-
 	@Bean
-//	@LoadBalanced
-	public RestTemplate restTemplate(){
-		return new RestTemplate();
+	public WebClient webClient(){
+		return WebClient.builder().build();
 	}
+
+	//@Bean
+//	@LoadBalanced
+//	public RestTemplate restTemplate(){
+//		return new RestTemplate();
+//	}
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemouserdetailsfacadeApplication.class, args);
