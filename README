@@ -1,0 +1,8 @@
+1. Clone the project
+2. Run the individual services
+3. Call the url http://localhost:8040/api/users/userdetails/1  to get userStatistics
+4. Call the url http://localhost:8041/api/users/1 to get Users
+5. This is a very simple service that demonstrates the workings of CB and retry pattern implementations
+   of Resilience4j, a light weight fault tolerance library. Hence, there are no implementations of
+   exception handling or even the typical microservice features like service registry, config servers
+   etc.
