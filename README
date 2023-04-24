@@ -6,3 +6,7 @@
    of Resilience4j, a light weight fault tolerance library. Hence, there are no implementations of
    exception handling or even the typical microservice features like service registry, config servers
    etc.
+
+   Note: I chose Resilience4j library over Hystrix library for Handling failures and latency because
+    Resilience4j offers active development, modularity, extensibility, integration with Java 8 features,
+    lightweight and low overhead, and support for non-blocking and reactive programming styles
