@@ -21,9 +21,10 @@ public class UserController {
         return userService.getUser(id);
     }
 
-    public com.abel.demouserdetailsfacade.dto.UserDetailsDto getUserdetails(){
+    @GetMapping("/userdetails/{id}")
+    public com.abel.demouserdetailsfacade.dto.UserStatisticsDto getUserdetails(@PathVariable int id){
 
-        return userService.getUserDetails();
+        return userService.getUserDetails(id);
     }
 
 }

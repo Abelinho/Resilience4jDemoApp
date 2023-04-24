@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a881fca8-a3fe-4218-ae08-76fb6041aeca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/config/CustomRetryHealthIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/config/CustomRetryHealthIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/config/CustomCircuitBreaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71790c1ff3276520adcf319822f8f88749ce4b71" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71790c1ff3276520adcf319822f8f88749ce4b71" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/democircuitbreaker/src/main/java/com/abel/democircuitbreaker/controller/UserStatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/democircuitbreaker/src/main/java/com/abel/democircuitbreaker/controller/UserStatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demouserdetailsfacade/src/main/java/com/abel/demouserdetailsfacade/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demouserdetailsfacade/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demouserdetailsfacade/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DemouserdetailsfacadeApplication">
+  <component name="RunManager" selected="Spring Boot.DemocircuitbreakerApplication (1)">
     <configuration name="DemocircuitbreakerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="democircuitbreaker" />
       <extension name="coverage">
@@ -138,8 +145,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Demoretrypattern" />
         <item itemvalue="Spring Boot.DemocircuitbreakerApplication (1)" />
+        <item itemvalue="Spring Boot.Demoretrypattern" />
         <item itemvalue="Spring Boot.DemoretrypartternApplication" />
       </list>
     </recent_temporary>
@@ -162,7 +169,9 @@
       <workItem from="1682145059331" duration="1330000" />
       <workItem from="1682146526967" duration="1823000" />
       <workItem from="1682149804699" duration="1262000" />
-      <workItem from="1682159255113" duration="23367000" />
+      <workItem from="1682159255113" duration="35197000" />
+      <workItem from="1682324940625" duration="1203000" />
+      <workItem from="1682326962097" duration="1082000" />
     </task>
     <servers />
   </component>
@@ -190,7 +199,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/democircuitbreaker/src/main/java/com/abel/democircuitbreaker/controller/UserStatController.java</url>
-          <line>20</line>
+          <line>22</line>
           <properties class="com.abel.democircuitbreaker.controller.UserStatController" method="getUserStat">
             <option name="EMULATED" value="true" />
           </properties>
